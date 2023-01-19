@@ -1,4 +1,4 @@
-# Emojiquiz Privacy Policy
+# Privacy Policy
 
 This app collects certain data that is not linked to any personal identification. This data includes user-generated content, unique device identifiers, usage data, and diagnostic information. This data is used to improve the functionality and user experience of the app.
 
